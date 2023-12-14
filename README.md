@@ -1,14 +1,14 @@
 # Lattice Gas Automata (LGA)
 Key Features:
 
-    LGCA Simulation:
-    This program employs Lattice Gas Cellular Automata principles to model fluid flows. Each lattice cell represents a discrete space where fluid particles interact based on predefined rules, simulating the dynamic behavior of the fluid.
+    LGA Simulation:
+    This program employs Lattice Gas Automata principles to model fluid flows. Each lattice cell represents a discrete space where fluid particles interact based on predefined rules, simulating the dynamic behavior of the fluid.
 
     Initialization with Particle Configurations:
-    Users can initialize the simulation by seeding the lattice with an initial configuration of fluid particles. This step establishes the starting conditions for the LGCA simulation, influencing the subsequent flow dynamics.
+    Users can initialize the simulation by setting the lattice with an initial configuration of fluid particles. This step establishes the starting conditions for the LGCA simulation, influencing the subsequent flow dynamics.
 
     Fluid Flow Dynamics:
-    The LGCA evolves over multiple iterations, capturing the dynamic movement of fluid particles. The simulation considers local interactions and collisions, leading to the emergence of macroscopic fluid flow patterns.
+    The LGA evolves over multiple iterations, capturing the dynamic movement of fluid particles. The simulation considers local interactions and collisions, leading to the emergence of macroscopic fluid flow patterns.
 
     Obstacle Interactions:
     The presence of obstacles in the lattice introduces collision dynamics, causing fluid particles to reflect upon encountering obstacles. This feature enhances the realism of the simulation by mimicking real-world interactions with obstacles.
